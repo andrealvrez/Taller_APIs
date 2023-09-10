@@ -1,0 +1,42 @@
+body {
+    font-family: "baby doll", sans-serif;
+}
+
+h1 {
+    background-color: black;
+    color: white;
+    padding: 56px;
+    text-align: center;
+}
+
+h2 {
+    padding: 35px;
+    text-align: center;
+}
+
+h3 {
+    padding: 28px;
+    background-color: yellow;
+    text-align: center;
+}
+
+#btnClick {
+    padding: 15px;
+    border: none;
+}
+
+#btnClick:hover {
+    background-color: yellow;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+    border-radius: 3px;
+}
+
